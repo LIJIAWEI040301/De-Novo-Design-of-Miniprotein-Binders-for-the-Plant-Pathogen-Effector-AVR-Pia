@@ -9,7 +9,7 @@ However, there is an inherent trade-off between disease resistance and high yiel
 
 ## Targeted Innovative Strategy
 
-To address this contradiction, this study proposes an innovative immune regulation strategy: de novo design of artificial miniproteins capable of competitively binding the AVR-Pia effector protein, with conditional expression achieved via specific inducible expression systems. These miniproteins bind AVR-Pia with high affinity, competitively blocking its interaction with the NLR receptor (Pikp-1), thereby suppressing the activation of the ETI pathway. In theory, by using specific promoters, this strategy enables precise regulation of immune intensity during periods of high blast incidence and critical yield formation, reducing yield loss caused by excessive immunity and achieving a dynamic balance between disease resistance and high yield.
+To address this contradiction, this study proposes an innovative immune regulation strategy: de novo design of artificial miniproteins capable of competitively binding the AVR-Pia effector protein, with their conditional expression achieved through specific inducible expression systems. Upon expression, these miniproteins bind AVR-Pia with high affinity, competitively blocking its interaction with the NLR receptor (Pikp-1), thereby suppressing the activation of the ETI pathway. In theory, this strategy can precisely regulate immune intensity during periods of high rice blast incidence and key yield formation stages, reducing yield loss caused by excessive immunity and achieving a dynamic balance between disease resistance and high yield.
 
 ## Near-term Plan
 
